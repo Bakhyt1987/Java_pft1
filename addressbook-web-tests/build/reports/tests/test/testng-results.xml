@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="18700" started-at="2020-04-24T03:50:53 ALMT" finished-at="2020-04-24T03:51:11 ALMT">
+  <suite name="Gradle suite" duration-ms="17058" started-at="2020-04-24T04:09:31 ALMT" finished-at="2020-04-24T04:09:48 ALMT">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="18700" started-at="2020-04-24T03:50:53 ALMT" finished-at="2020-04-24T03:51:11 ALMT">
+    <test name="Gradle test" duration-ms="17058" started-at="2020-04-24T04:09:31 ALMT" finished-at="2020-04-24T04:09:48 ALMT">
       <class name="org.addressbook.FirstTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.FirstTest@7e3cee9d]" name="setUp" is-config="true" duration-ms="10360" started-at="2020-04-24T03:50:53 ALMT" finished-at="2020-04-24T03:51:03 ALMT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.FirstTest@7e3cee9d]" name="setUp" is-config="true" duration-ms="10982" started-at="2020-04-24T04:09:31 ALMT" finished-at="2020-04-24T04:09:42 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:org.addressbook.FirstTest@7e3cee9d]" name="firstTest" duration-ms="2039" started-at="2020-04-24T03:51:03 ALMT" finished-at="2020-04-24T03:51:05 ALMT">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:org.addressbook.FirstTest@7e3cee9d]" name="firstTest" duration-ms="2094" started-at="2020-04-24T04:09:42 ALMT" finished-at="2020-04-24T04:09:44 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.FirstTest@7e3cee9d]" name="tearDown" is-config="true" duration-ms="6276" started-at="2020-04-24T03:51:05 ALMT" finished-at="2020-04-24T03:51:11 ALMT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.FirstTest@7e3cee9d]" name="tearDown" is-config="true" duration-ms="3952" started-at="2020-04-24T04:09:44 ALMT" finished-at="2020-04-24T04:09:48 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
