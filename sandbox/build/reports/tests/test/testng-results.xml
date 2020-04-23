@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gradle suite" duration-ms="48" started-at="2020-04-24T02:06:51 ALMT" finished-at="2020-04-24T02:06:51 ALMT">
+    <groups>
+    </groups>
+    <test name="Gradle test" duration-ms="48" started-at="2020-04-24T02:06:51 ALMT" finished-at="2020-04-24T02:06:51 ALMT">
+      <class name="org.baha.SquareTests">
+        <test-method status="PASS" signature="testArea()[pri:0, instance:org.baha.SquareTests@fa9b345]" name="testArea" duration-ms="10" started-at="2020-04-24T02:06:51 ALMT" finished-at="2020-04-24T02:06:51 ALMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArea -->
+      </class> <!-- org.baha.SquareTests -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>

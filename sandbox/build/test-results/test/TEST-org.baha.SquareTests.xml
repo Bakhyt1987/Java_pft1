@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.baha.SquareTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-23T20:06:51" hostname="DESKTOP-E2AAC4S" time="0.01">
+  <properties/>
+  <testcase name="testArea" classname="org.baha.SquareTests" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
