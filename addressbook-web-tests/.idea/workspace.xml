@@ -20,24 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1fdc6e-c717-4d69-ab0e-d018705d6012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/GroupData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/AddNewData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/CreateContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/GroupDeletionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/LoginData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/LoginFormData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/FirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/FirstTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/FirstTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.FirstTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.FirstTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.FirstTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.FirstTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.FirstTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/classes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/testng.xml.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/org.addressbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/org.addressbook.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.FirstTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.FirstTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.FirstTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/GroupCreationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +71,13 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -95,7 +110,50 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.FirstTest">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.addressbook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.GroupDeletionTests">
+    <configuration name="CreateContact.testCreateContact" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.addressbook.CreateContact.testCreateContact&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DeleteGroup.testDeleteGroup" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.tests.DeleteGroup.testDeleteGroup&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="FirstTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -134,8 +192,30 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="GroupDeletionTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.addressbook.GroupDeletionTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GroupDeletionTests" />
+        <item itemvalue="Gradle.DeleteGroup.testDeleteGroup" />
+        <item itemvalue="Gradle.CreateContact.testCreateContact" />
         <item itemvalue="Gradle.FirstTest" />
         <item itemvalue="Gradle.FirstTest.FirstTest" />
       </list>
@@ -151,7 +231,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587673171084</updated>
-      <workItem from="1587673176142" duration="6832000" />
+      <workItem from="1587673176142" duration="7152000" />
+      <workItem from="1587791242430" duration="8074000" />
     </task>
     <servers />
   </component>
@@ -168,43 +249,48 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="478" y="168" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1587799745223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="168" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.824@0.0.1536.824" timestamp="1587799745223" />
     <state x="224" y="154" key="FileChooserDialogImpl" timestamp="1587675806597">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="224" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587675806597" />
-    <state width="1485" height="205" key="GridCell.Tab.0.bottom" timestamp="1587679768748">
+    <state width="1492" height="213" key="GridCell.Tab.0.bottom" timestamp="1587800347040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1485" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587679768748" />
-    <state width="1485" height="205" key="GridCell.Tab.0.center" timestamp="1587679768743">
+    <state width="1492" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587800347040" />
+    <state width="1492" height="213" key="GridCell.Tab.0.center" timestamp="1587800347040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1485" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587679768743" />
-    <state width="1485" height="205" key="GridCell.Tab.0.left" timestamp="1587679768743">
+    <state width="1492" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587800347040" />
+    <state width="1492" height="213" key="GridCell.Tab.0.left" timestamp="1587800347040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1485" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587679768743" />
-    <state width="1485" height="205" key="GridCell.Tab.0.right" timestamp="1587679768748">
+    <state width="1492" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587800347040" />
+    <state width="1492" height="213" key="GridCell.Tab.0.right" timestamp="1587800347040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1485" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587679768748" />
-    <state x="524" y="47" width="484" height="734" key="RefactorJ.IntroduceParameterObject" timestamp="1587680039864">
+    <state width="1492" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587800347040" />
+    <state x="898" y="38" width="484" height="769" key="RefactorJ.IntroduceParameterObject" timestamp="1587798668583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="47" width="484" height="734" key="RefactorJ.IntroduceParameterObject/0.0.1536.824@0.0.1536.824" timestamp="1587680039864" />
+    <state x="898" y="38" width="484" height="769" key="RefactorJ.IntroduceParameterObject/0.0.1536.824@0.0.1536.824" timestamp="1587798668583" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1587675844156">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587675844156" />
-    <state x="497" y="166" key="extract.method.dialog" timestamp="1587679438191">
+    <state x="105" y="144" width="538" height="495" key="extract.method.dialog" timestamp="1587798403583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="497" y="166" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587679438191" />
+    <state x="105" y="144" width="538" height="495" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587798403583" />
     <state x="473" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1587676214410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
