@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="48" started-at="2020-04-24T02:06:51 ALMT" finished-at="2020-04-24T02:06:51 ALMT">
+  <suite name="Gradle suite" duration-ms="47" started-at="2020-04-29T23:04:01 ALMT" finished-at="2020-04-29T23:04:01 ALMT">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="48" started-at="2020-04-24T02:06:51 ALMT" finished-at="2020-04-24T02:06:51 ALMT">
-      <class name="org.baha.SquareTests">
-        <test-method status="PASS" signature="testArea()[pri:0, instance:org.baha.SquareTests@fa9b345]" name="testArea" duration-ms="10" started-at="2020-04-24T02:06:51 ALMT" finished-at="2020-04-24T02:06:51 ALMT">
+    <test name="Gradle test" duration-ms="47" started-at="2020-04-29T23:04:01 ALMT" finished-at="2020-04-29T23:04:01 ALMT">
+      <class name="org.baha.EquationTest">
+        <test-method status="PASS" signature="test0()[pri:0, instance:org.baha.EquationTest@fa9b345]" name="test0" duration-ms="16" started-at="2020-04-29T23:04:01 ALMT" finished-at="2020-04-29T23:04:01 ALMT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testArea -->
-      </class> <!-- org.baha.SquareTests -->
+        </test-method> <!-- test0 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.baha.EquationTest@fa9b345]" name="test2" duration-ms="0" started-at="2020-04-29T23:04:01 ALMT" finished-at="2020-04-29T23:04:01 ALMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.baha.EquationTest@fa9b345]" name="test1" duration-ms="0" started-at="2020-04-29T23:04:01 ALMT" finished-at="2020-04-29T23:04:01 ALMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- org.baha.EquationTest -->
     </test> <!-- Gradle test -->
   </suite> <!-- Gradle suite -->
 </testng-results>

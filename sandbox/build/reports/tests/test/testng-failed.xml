@@ -3,11 +3,12 @@
 <suite verbose="0" name="Failed suite [Gradle suite]">
   <test thread-count="5" verbose="0" name="Gradle test(failed)">
     <classes>
-      <class name="org.baha.SquareTests">
+      <class name="org.baha.EquationTest">
         <methods>
-          <include name="testArea"/>
+          <include name="test1"/>
+          <include name="test2"/>
         </methods>
-      </class> <!-- org.baha.SquareTests -->
+      </class> <!-- org.baha.EquationTest -->
     </classes>
   </test> <!-- Gradle test(failed) -->
 </suite> <!-- Failed suite [Gradle suite] -->

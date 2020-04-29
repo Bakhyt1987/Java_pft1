@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1fdc6e-c717-4d69-ab0e-d018705d6012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/main/java/org/baha/Equation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/test/java/org/baha/EquationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/testng-failed.xml" afterDir="false" />
@@ -40,6 +38,8 @@
       <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sandbox/build/test-results/test/TEST-org.baha.SquareTests.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sandbox/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/src/main/java/org/baha/Equation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/src/main/java/org/baha/Equation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/src/test/java/org/baha/EquationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/src/test/java/org/baha/EquationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +230,7 @@
       <workItem from="1587791242430" duration="8074000" />
       <workItem from="1587813242689" duration="1467000" />
       <workItem from="1588100548311" duration="984000" />
-      <workItem from="1588151259264" duration="9806000" />
+      <workItem from="1588151259264" duration="10397000" />
     </task>
     <servers />
   </component>
