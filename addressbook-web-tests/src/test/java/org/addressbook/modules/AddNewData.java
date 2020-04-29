@@ -1,4 +1,4 @@
-package org.addressbook;
+package org.addressbook.modules;
 
 public class AddNewData {
     private final String firstname;
