@@ -20,10 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1fdc6e-c717-4d69-ab0e-d018705d6012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupModificationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandbox/src/main/java/org/baha/Equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandbox/src/test/java/org/baha/EquationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/GroupHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/classes/org.baha.SquareTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/packages/org.baha.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/packages/org.baha.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/test-results/test/TEST-org.baha.SquareTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +230,7 @@
       <workItem from="1587791242430" duration="8074000" />
       <workItem from="1587813242689" duration="1467000" />
       <workItem from="1588100548311" duration="984000" />
-      <workItem from="1588151259264" duration="8180000" />
+      <workItem from="1588151259264" duration="9806000" />
     </task>
     <servers />
   </component>
