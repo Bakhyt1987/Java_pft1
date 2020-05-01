@@ -20,24 +20,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1fdc6e-c717-4d69-ab0e-d018705d6012" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/ContactHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/modules/ContactData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/ContactCreationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/ContactModificationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.tests.ContactCreationTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.tests.ContactCreationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ContactHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/modules/ContactData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/ContactCreationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/ContactModificationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/example/tests/DeleteGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/ApplicationManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/NavigationHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/NavigationHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/CreateContact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/GroupModificationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/GroupModificationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.tests.GroupModificationTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.tests.GroupModificationTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.tests.GroupModificationTests.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupModificationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/classes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/org.addressbook.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/org.addressbook.tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.tests.GroupModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.tests.GroupModificationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.tests.GroupModificationTests.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/HelperBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/NavigationHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/NavigationHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/CreateContact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupModificationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupModificationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,13 +133,13 @@
       <recent name="org.addressbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.GroupModificationTests">
-    <configuration name="CreateContact.testCreateContact" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.ContactCreationTests">
+    <configuration name="ContactCreationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;org.addressbook.CreateContact.testCreateContact&quot;" />
+        <option name="scriptParameters" value="--tests &quot;org.addressbook.tests.ContactCreationTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -129,12 +153,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DeleteGroup.testDeleteGroup" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ContactModificationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.example.tests.DeleteGroup.testDeleteGroup&quot;" />
+        <option name="scriptParameters" value="--tests &quot;org.addressbook.tests.ContactModificationTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -207,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ContactCreationTests" />
+        <item itemvalue="Gradle.ContactModificationTests" />
         <item itemvalue="Gradle.GroupModificationTests" />
         <item itemvalue="Gradle.GroupModificationTests.testGroupModification" />
         <item itemvalue="Gradle.GroupDeletionTests" />
-        <item itemvalue="Gradle.DeleteGroup.testDeleteGroup" />
-        <item itemvalue="Gradle.CreateContact.testCreateContact" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +256,7 @@
       <workItem from="1588151259264" duration="10397000" />
       <workItem from="1588187680574" duration="5515000" />
       <workItem from="1588195365259" duration="1248000" />
-      <workItem from="1588354177823" duration="2207000" />
+      <workItem from="1588354177823" duration="11323000" />
     </task>
     <servers />
   </component>
@@ -267,26 +291,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="224" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588156659306" />
-    <state width="723" height="277" key="GridCell.Tab.0.bottom" timestamp="1588360478331">
+    <state width="915" height="326" key="GridCell.Tab.0.bottom" timestamp="1588369674889">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="277" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588360478331" />
-    <state width="723" height="277" key="GridCell.Tab.0.center" timestamp="1588360478331">
+    <state width="915" height="326" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588369674889" />
+    <state width="915" height="326" key="GridCell.Tab.0.center" timestamp="1588369674888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="277" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588360478331" />
-    <state width="723" height="277" key="GridCell.Tab.0.left" timestamp="1588360478326">
+    <state width="915" height="326" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588369674888" />
+    <state width="915" height="326" key="GridCell.Tab.0.left" timestamp="1588369674888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="277" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588360478326" />
-    <state width="723" height="277" key="GridCell.Tab.0.right" timestamp="1588360478331">
+    <state width="915" height="326" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588369674888" />
+    <state width="915" height="326" key="GridCell.Tab.0.right" timestamp="1588369674888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="277" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588360478331" />
-    <state x="898" y="38" width="484" height="769" key="RefactorJ.IntroduceParameterObject" timestamp="1587798668583">
+    <state width="915" height="326" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588369674888" />
+    <state width="915" height="321" key="GridCell.Tab.1.bottom" timestamp="1588368759591">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="898" y="38" width="484" height="769" key="RefactorJ.IntroduceParameterObject/0.0.1536.824@0.0.1536.824" timestamp="1587798668583" />
+    <state width="915" height="321" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588368759591" />
+    <state width="915" height="321" key="GridCell.Tab.1.center" timestamp="1588368759591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="915" height="321" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588368759591" />
+    <state width="915" height="321" key="GridCell.Tab.1.left" timestamp="1588368759591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="915" height="321" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588368759591" />
+    <state width="915" height="321" key="GridCell.Tab.1.right" timestamp="1588368759591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="915" height="321" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588368759591" />
+    <state x="898" y="19" width="484" height="774" key="RefactorJ.IntroduceParameterObject" timestamp="1588367485009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="898" y="19" width="484" height="774" key="RefactorJ.IntroduceParameterObject/0.0.1536.824@0.0.1536.824" timestamp="1588367485009" />
     <state x="582" y="349" key="ReplaceDuplicatesPrompt" timestamp="1588157544736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -299,9 +339,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="207" y="198" width="538" height="495" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1588157833761" />
-    <state x="473" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1587676214410">
+    <state x="473" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1588368491173">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="473" y="159" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1587676214410" />
+    <state x="473" y="159" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1588368491173" />
   </component>
 </project>
