@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.addressbook.tests.GroupModificationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-29T11:37:40" hostname="DESKTOP-E2AAC4S" time="2.359">
+<testsuite name="org.addressbook.tests.GroupModificationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-29T21:33:00" hostname="DESKTOP-E2AAC4S" time="4.654">
   <properties/>
-  <testcase name="testGroupModification" classname="org.addressbook.tests.GroupModificationTests" time="2.359"/>
+  <testcase name="testGroupModification" classname="org.addressbook.tests.GroupModificationTests" time="4.654"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[1588160248214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMYLB6v"
-1588160250361	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1588160252672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1588160252672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1588160252672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1588160252672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1588160256449	Marionette	INFO	Listening on port 50951
-1588160256715	Marionette	WARN	TLS certificate errors will be ignored for this session
-апр 29, 2020 5:37:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+  <system-err><![CDATA[[03:32:55.575] - Listening on http://127.0.0.1:27789/ 
+[03:32:55.575] - Listening on http://[::1]:27789/ 
+апр 30, 2020 3:32:57 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-1588160262665	Marionette	INFO	Stopped listening on port 50951
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+The following JSON wire protocol command endpoint is not allowed when server is running in W3C mode.
+GET /shutdown
 
 ]]></system-err>
 </testsuite>
