@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="17431" started-at="2020-05-02T17:03:41 ALMT" finished-at="2020-05-02T17:03:59 ALMT">
+  <suite name="Gradle suite" duration-ms="14777" started-at="2020-05-03T02:53:36 ALMT" finished-at="2020-05-03T02:53:51 ALMT">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="17431" started-at="2020-05-02T17:03:41 ALMT" finished-at="2020-05-02T17:03:59 ALMT">
+    <test name="Gradle test" duration-ms="14777" started-at="2020-05-03T02:53:36 ALMT" finished-at="2020-05-03T02:53:51 ALMT">
       <class name="org.addressbook.tests.GroupDeletionTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="setUp" is-config="true" duration-ms="11769" started-at="2020-05-02T17:03:41 ALMT" finished-at="2020-05-02T17:03:53 ALMT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="setUp" is-config="true" duration-ms="9530" started-at="2020-05-03T02:53:36 ALMT" finished-at="2020-05-03T02:53:46 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testGroupDeletion()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="testGroupDeletion" duration-ms="775" started-at="2020-05-02T17:03:53 ALMT" finished-at="2020-05-02T17:03:54 ALMT">
+        <test-method status="PASS" signature="testGroupDeletion()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="testGroupDeletion" duration-ms="1359" started-at="2020-05-03T02:53:46 ALMT" finished-at="2020-05-03T02:53:47 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGroupDeletion -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="tearDown" is-config="true" duration-ms="4842" started-at="2020-05-02T17:03:54 ALMT" finished-at="2020-05-02T17:03:59 ALMT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="tearDown" is-config="true" duration-ms="3848" started-at="2020-05-03T02:53:47 ALMT" finished-at="2020-05-03T02:53:51 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

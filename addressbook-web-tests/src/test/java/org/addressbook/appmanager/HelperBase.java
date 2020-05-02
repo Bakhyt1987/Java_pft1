@@ -1,9 +1,6 @@
 package org.addressbook.appmanager;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.NoAlertPresentException;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 
 public class HelperBase {
     public WebDriver wd;
@@ -42,5 +39,20 @@ public class HelperBase {
             return false;
         }
 
+    }
+
+    protected String closeAlertAndGetItsText() {
+        boolean acceptNextAlert = true;
+        try {
+            Alert alert = wd.switchTo().alert();
+            String alertText = alert.getText();
+            if (acceptNextAlert) {
+                alert.accept();
+            } else {
+                alert.dismiss();
+            }
+            return alertText;
+        } finally {
+        }
     }
 }
