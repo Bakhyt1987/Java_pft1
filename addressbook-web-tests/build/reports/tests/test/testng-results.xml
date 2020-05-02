@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="43754" started-at="2020-05-02T05:06:46 ALMT" finished-at="2020-05-02T05:07:29 ALMT">
+  <suite name="Gradle suite" duration-ms="22154" started-at="2020-05-02T15:53:24 ALMT" finished-at="2020-05-02T15:53:46 ALMT">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="43754" started-at="2020-05-02T05:06:46 ALMT" finished-at="2020-05-02T05:07:29 ALMT">
+    <test name="Gradle test" duration-ms="22154" started-at="2020-05-02T15:53:24 ALMT" finished-at="2020-05-02T15:53:46 ALMT">
       <class name="org.addressbook.tests.ContactModificationTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.tests.ContactModificationTests@c313486]" name="setUp" is-config="true" duration-ms="9690" started-at="2020-05-02T05:06:46 ALMT" finished-at="2020-05-02T05:06:55 ALMT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.tests.ContactModificationTests@5e4b294f]" name="setUp" is-config="true" duration-ms="10855" started-at="2020-05-02T15:53:24 ALMT" finished-at="2020-05-02T15:53:35 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testContactModification()[pri:0, instance:org.addressbook.tests.ContactModificationTests@c313486]" name="testContactModification" duration-ms="31455" started-at="2020-05-02T05:06:55 ALMT" finished-at="2020-05-02T05:07:27 ALMT">
+        <test-method status="PASS" signature="testContactModification()[pri:0, instance:org.addressbook.tests.ContactModificationTests@5e4b294f]" name="testContactModification" duration-ms="5312" started-at="2020-05-02T15:53:35 ALMT" finished-at="2020-05-02T15:53:40 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testContactModification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.tests.ContactModificationTests@c313486]" name="tearDown" is-config="true" duration-ms="2559" started-at="2020-05-02T05:07:27 ALMT" finished-at="2020-05-02T05:07:29 ALMT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.tests.ContactModificationTests@5e4b294f]" name="tearDown" is-config="true" duration-ms="5942" started-at="2020-05-02T15:53:40 ALMT" finished-at="2020-05-02T15:53:46 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
