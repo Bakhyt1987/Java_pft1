@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="22154" started-at="2020-05-02T15:53:24 ALMT" finished-at="2020-05-02T15:53:46 ALMT">
+  <suite name="Gradle suite" duration-ms="17431" started-at="2020-05-02T17:03:41 ALMT" finished-at="2020-05-02T17:03:59 ALMT">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="22154" started-at="2020-05-02T15:53:24 ALMT" finished-at="2020-05-02T15:53:46 ALMT">
-      <class name="org.addressbook.tests.ContactModificationTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.tests.ContactModificationTests@5e4b294f]" name="setUp" is-config="true" duration-ms="10855" started-at="2020-05-02T15:53:24 ALMT" finished-at="2020-05-02T15:53:35 ALMT">
+    <test name="Gradle test" duration-ms="17431" started-at="2020-05-02T17:03:41 ALMT" finished-at="2020-05-02T17:03:59 ALMT">
+      <class name="org.addressbook.tests.GroupDeletionTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="setUp" is-config="true" duration-ms="11769" started-at="2020-05-02T17:03:41 ALMT" finished-at="2020-05-02T17:03:53 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testContactModification()[pri:0, instance:org.addressbook.tests.ContactModificationTests@5e4b294f]" name="testContactModification" duration-ms="5312" started-at="2020-05-02T15:53:35 ALMT" finished-at="2020-05-02T15:53:40 ALMT">
+        <test-method status="PASS" signature="testGroupDeletion()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="testGroupDeletion" duration-ms="775" started-at="2020-05-02T17:03:53 ALMT" finished-at="2020-05-02T17:03:54 ALMT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testContactModification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.tests.ContactModificationTests@5e4b294f]" name="tearDown" is-config="true" duration-ms="5942" started-at="2020-05-02T15:53:40 ALMT" finished-at="2020-05-02T15:53:46 ALMT">
+        </test-method> <!-- testGroupDeletion -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@ba94ffe]" name="tearDown" is-config="true" duration-ms="4842" started-at="2020-05-02T17:03:54 ALMT" finished-at="2020-05-02T17:03:59 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- org.addressbook.tests.ContactModificationTests -->
+      </class> <!-- org.addressbook.tests.GroupDeletionTests -->
     </test> <!-- Gradle test -->
   </suite> <!-- Gradle suite -->
 </testng-results>

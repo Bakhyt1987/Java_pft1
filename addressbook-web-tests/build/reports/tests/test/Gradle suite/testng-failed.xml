@@ -3,13 +3,13 @@
 <suite verbose="0" name="Failed suite [Gradle suite]">
   <test thread-count="5" verbose="0" name="Gradle test(failed)">
     <classes>
-      <class name="org.addressbook.tests.ContactModificationTests">
+      <class name="org.addressbook.tests.GroupModificationTests">
         <methods>
           <include name="tearDown"/>
-          <include name="testContactModification"/>
+          <include name="testGroupModification"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- org.addressbook.tests.ContactModificationTests -->
+      </class> <!-- org.addressbook.tests.GroupModificationTests -->
     </classes>
   </test> <!-- Gradle test(failed) -->
 </suite> <!-- Failed suite [Gradle suite] -->
