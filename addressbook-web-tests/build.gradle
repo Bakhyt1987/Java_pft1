@@ -6,6 +6,11 @@ repositories {
     mavenCentral()
 }
 
+task execute(type:JavaExec){
+    main = "Baha"
+    classpath = sourceSets.main.runtimeClasspath
+}
+
 dependencies {
     implementation 'org.testng:testng:7.1.0'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
