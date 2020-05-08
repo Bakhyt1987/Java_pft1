@@ -20,65 +20,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1fdc6e-c717-4d69-ab0e-d018705d6012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test Results - PrimeTests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/classes/java/main/org/baha/Collections.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/classes/java/main/org/baha/Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/classes/java/main/org/baha/Primes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/main/java/org/baha/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/main/java/org/baha/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/main/java/org/baha/Primes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/test/java/org/baha/PrimeTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/GroupHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/GroupHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/GroupCreationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/GroupCreationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/GroupDeletionTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/GroupDeletionTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/appmanager/ApplicationManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/GroupModificationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/org/addressbook/tests/GroupModificationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/Gradle test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.tests.GroupDeletionTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/Gradle suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/org.addressbook.tests.GroupCreationTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupCreationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupCreationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupDeletionTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupDeletionTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-com.example.tests.DeleteGroup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.CreateContact.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.FirstTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.GroupDeletionTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.ContactCreationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.ContactDeletionTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.ContactModificationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupCreationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupDeletionTests.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupModificationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/junitreports/TEST-org.addressbook.tests.GroupModificationTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods-not-run.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/methods.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/Gradle suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/old/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/org.addressbook.tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/org.addressbook.tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-failed.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.tests.GroupDeletionTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-org.addressbook.tests.GroupCreationTests.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/GroupHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/GroupHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupCreationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupDeletionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupDeletionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupModificationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupModificationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/Gradle test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/Gradle suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/classes/org.baha.EquationTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/Gradle suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/packages/org.baha.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/packages/org.baha.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/build/reports/tests/test/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/test-results/test/TEST-org.baha.EquationTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/build/test-results/test/binary/results.bin" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +73,10 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -104,6 +95,50 @@
       </state>
     </system>
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/addressbook/tests/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupModificationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/GroupHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+              <folding>
+                <element signature="e#983#984#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -114,9 +149,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupModificationTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="175" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
   <component name="ProjectId" id="1axNED6KLd7GPpGWNXTlDRFkqun" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="addressbook-web-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="addressbook-web-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addressbook-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -130,17 +203,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sandbox" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
@@ -149,7 +222,19 @@
       <recent name="org.addressbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.GroupCreationTests">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.GroupModificationTests">
     <configuration name="ContactDeletionTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -237,6 +322,7 @@
         </option>
         <option name="taskNames">
           <list>
+            <option value=":cleanTest" />
             <option value=":test" />
           </list>
         </option>
@@ -247,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GroupModificationTests" />
         <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="Gradle.GroupModificationTests" />
         <item itemvalue="Gradle.GroupDeletionTests" />
         <item itemvalue="Gradle.ContactDeletionTests" />
-        <item itemvalue="Gradle.ContactModificationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -278,23 +364,108 @@
       <workItem from="1588534543020" duration="736000" />
       <workItem from="1588627982028" duration="2855000" />
       <workItem from="1588841897606" duration="2591000" />
+      <workItem from="1588936789855" duration="2091000" />
+      <workItem from="1588940603958" duration="457000" />
+      <workItem from="1588949033204" duration="278000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="GroupModificationTests - 2020.05.08 at 17h 24m 00s.xml">
+      <configuration name="GroupModificationTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupModificationTests - 2020.05.08 at 17h 54m 02s.xml">
+      <configuration name="GroupModificationTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupModificationTests - 2020.05.08 at 18h 09m 18s.xml">
+      <configuration name="GroupModificationTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupModificationTests - 2020.05.08 at 18h 24m 58s.xml">
+      <configuration name="GroupModificationTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupModificationTests - 2020.05.08 at 18h 25m 23s.xml">
+      <configuration name="GroupModificationTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupModificationTests - 2020.05.08 at 18h 27m 44s.xml">
+      <configuration name="GroupModificationTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupModificationTests - 2020.05.08 at 18h 29m 03s.xml">
+      <configuration name="GroupModificationTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2826000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1624161" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33994335" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -364,5 +535,113 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="264" width="586" height="489" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1588447676048" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/addressbook/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/addressbook/appmanager/GroupHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+          <folding>
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/addressbook/tests/GroupModificationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>addressbook-web-tests</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

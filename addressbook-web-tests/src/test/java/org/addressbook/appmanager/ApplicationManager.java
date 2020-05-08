@@ -23,15 +23,15 @@ public class ApplicationManager {
     public void init() {
         if (browser.equals(BrowserType.FIREFOX)) {
             System.setProperty("webdriver.gecko.driver", "C:" +
-                    "\\Users\\admin\\Desktop\\Bakhyt\\Java_pft1\\addressbook-web-tests\\libs\\geckodriver.exe");
+                    "\\Users\\b.zhapparbergenov\\Desktop\\Baha\\Projects\\Java_pft1\\addressbook-web-tests\\libs\\geckodriver.exe");
             wd = new FirefoxDriver();
         } else if (browser.equals(BrowserType.CHROME)) {
             System.setProperty("webdriver.chrome.driver", "C:" +
-                    "\\Users\\admin\\Desktop\\Bakhyt\\Java_pft1\\addressbook-web-tests\\libs\\chromedriver.exe");
+                    "\\Users\\b.zhapparbergenov\\Desktop\\Baha\\Projects\\Java_pft1\\addressbook-web-tests\\libs\\chromedriver.exe");
             wd = new ChromeDriver();
         } else if (browser.equals(BrowserType.EDGE)) {
             System.setProperty("webdriver.msedge.driver", "C:" +
-                    "\\Users\\admin\\Desktop\\Bakhyt\\Java_pft1\\addressbook-web-tests\\libs\\msedgedriver.exe");
+                    "\\Users\\b.zhapparbergenov\\Desktop\\Baha\\Projects\\Java_pft1\\addressbook-web-tests\\libs\\msedgedriver.exe");
             wd = new EdgeDriver();
         }
 
