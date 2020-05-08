@@ -4,15 +4,15 @@ import org.addressbook.modules.ContactData;
 import org.testng.annotations.Test;
 
 public class ContactDeletionTests extends TestBase{
-    @Test
+    @Test (enabled = false)
     public void testContactDeletion() throws Exception {
-        applicationManager.getNavigationHelper().goToHomePage();
-        if(! applicationManager.getContactHelper().isThereAContact()){
-            applicationManager.getContactHelper().creatContact(new ContactData("Dina", "Kerimbekova","Try"),true);
+        app.goTo().goToHomePage();
+        if(! app.getContactHelper().isThereAContact()){
+            app.getContactHelper().creatContact(new ContactData("Dina", "Kerimbekova","Try"),true);
         }
-        applicationManager.getContactHelper().selectContact();
-        applicationManager.getContactHelper().deleteSelectContact();
-        applicationManager.getContactHelper().returnToHomePage();
+        app.getContactHelper().selectContact();
+        app.getContactHelper().deleteSelectContact();
+        app.getContactHelper().returnToHomePage();
     }
 }
 
