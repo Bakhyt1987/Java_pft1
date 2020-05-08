@@ -3,32 +3,35 @@ package org.addressbook.modules;
 import java.util.Objects;
 
 public class GroupData {
-    private int id;
-    private final String name;
-    private final String groupHeader;
-    private final String groupFooter;
+    private int id = Integer.MAX_VALUE;
+    private String name;
+    private String groupHeader;
+    private String groupFooter;
 
-    public void setId(int id) {
+    public GroupData withHeader(String groupHeader) {
+        this.groupHeader = groupHeader;
+        return this;
+    }
+
+    public GroupData withFooter(String groupFooter) {
+        this.groupFooter = groupFooter;
+        return this;
+    }
+
+    public GroupData withName(String name) {
+        this.name = name;
+        return this;
+    }
+
+    public GroupData withId(int id) {
         this.id = id;
+        return this;
     }
 
     public int getId() {
         return id;
     }
 
-    public GroupData(String name, String groupHeader, String groupFooter) {
-        this.id = Integer.MAX_VALUE;
-        this.name = name;
-        this.groupHeader = groupHeader;
-        this.groupFooter = groupFooter;
-    }
-
-    public GroupData(int id, String name, String groupHeader, String groupFooter) {
-        this.id = id;
-        this.name = name;
-        this.groupHeader = groupHeader;
-        this.groupFooter = groupFooter;
-    }
 
     public String getName() {
         return name;
