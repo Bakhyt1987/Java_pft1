@@ -1,47 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="15" total="18" passed="3">
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Gradle suite" duration-ms="5944" started-at="2020-05-09T05:37:58 ALMT" finished-at="2020-05-09T05:38:04 ALMT">
+  <suite name="Gradle suite" duration-ms="2202" started-at="2020-05-10T16:36:15 ALMT" finished-at="2020-05-10T16:36:17 ALMT">
     <groups>
     </groups>
-    <test name="Gradle test" duration-ms="5944" started-at="2020-05-09T05:37:58 ALMT" finished-at="2020-05-09T05:38:04 ALMT">
-      <class name="org.addressbook.tests.ContactCreationTests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.tests.ContactCreationTests@2d17b8a7]" name="setUp" is-config="true" duration-ms="4101" started-at="2020-05-09T05:37:54 ALMT" finished-at="2020-05-09T05:37:58 ALMT">
+    <test name="Gradle test" duration-ms="2202" started-at="2020-05-10T16:36:15 ALMT" finished-at="2020-05-10T16:36:17 ALMT">
+      <class name="org.addressbook.tests.GroupCreationTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.addressbook.tests.GroupCreationTests@7ad8bac9]" name="setUp" is-config="true" duration-ms="4731" started-at="2020-05-10T16:36:10 ALMT" finished-at="2020-05-10T16:36:15 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.tests.ContactCreationTests@2d17b8a7]" name="tearDown" is-config="true" duration-ms="912" started-at="2020-05-09T05:38:04 ALMT" finished-at="2020-05-09T05:38:05 ALMT">
+        <test-method status="FAIL" signature="testGroupCreation()[pri:0, instance:org.addressbook.tests.GroupCreationTests@7ad8bac9]" name="testGroupCreation" duration-ms="2164" started-at="2020-05-10T16:36:15 ALMT" finished-at="2020-05-10T16:36:17 ALMT">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[
+Expected: <2>
+     but: was <1>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 
+Expected: <2>
+     but: was <1>
+at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
+at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:6)
+at org.addressbook.tests.GroupCreationTests.testGroupCreation(GroupCreationTests.java:20)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1257)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.runTests(TestNGTestClassProcessor.java:141)
+at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.stop(TestNGTestClassProcessor.java:90)
+at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+at com.sun.proxy.$Proxy2.stop(Unknown Source)
+at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:132)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:412)
+at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGroupCreation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.addressbook.tests.GroupCreationTests@7ad8bac9]" name="tearDown" is-config="true" duration-ms="1064" started-at="2020-05-10T16:36:17 ALMT" finished-at="2020-05-10T16:36:18 ALMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- org.addressbook.tests.ContactCreationTests -->
-      <class name="org.addressbook.tests.GroupCreationTests">
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:org.addressbook.tests.GroupCreationTests@6d4845bf]" name="firstTest" duration-ms="1985" started-at="2020-05-09T05:37:58 ALMT" finished-at="2020-05-09T05:38:00 ALMT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- firstTest -->
       </class> <!-- org.addressbook.tests.GroupCreationTests -->
-      <class name="org.addressbook.tests.GroupDeletionTests">
-        <test-method status="PASS" signature="ensurePreconditions()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@1d1f41d2]" name="ensurePreconditions" is-config="true" duration-ms="448" started-at="2020-05-09T05:38:00 ALMT" finished-at="2020-05-09T05:38:01 ALMT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ensurePreconditions -->
-        <test-method status="PASS" signature="testGroupDeletion()[pri:0, instance:org.addressbook.tests.GroupDeletionTests@1d1f41d2]" name="testGroupDeletion" duration-ms="1026" started-at="2020-05-09T05:38:01 ALMT" finished-at="2020-05-09T05:38:02 ALMT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testGroupDeletion -->
-      </class> <!-- org.addressbook.tests.GroupDeletionTests -->
-      <class name="org.addressbook.tests.GroupModificationTests">
-        <test-method status="PASS" signature="ensurePreconditions()[pri:0, instance:org.addressbook.tests.GroupModificationTests@164cf634]" name="ensurePreconditions" is-config="true" duration-ms="407" started-at="2020-05-09T05:38:02 ALMT" finished-at="2020-05-09T05:38:02 ALMT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ensurePreconditions -->
-        <test-method status="PASS" signature="testGroupModification()[pri:0, instance:org.addressbook.tests.GroupModificationTests@164cf634]" name="testGroupModification" duration-ms="2047" started-at="2020-05-09T05:38:02 ALMT" finished-at="2020-05-09T05:38:04 ALMT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testGroupModification -->
-      </class> <!-- org.addressbook.tests.GroupModificationTests -->
     </test> <!-- Gradle test -->
   </suite> <!-- Gradle suite -->
 </testng-results>
